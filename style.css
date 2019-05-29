@@ -67,3 +67,19 @@
     width: 20%;
     margin: 40px 10px;
 }
+
+.pink {
+    background-color: rgb(202, 90, 202);
+}
+
+.orange {
+    background-color: rgb(231, 149, 56);
+}
+
+.purple {
+    background-color: rgb(120, 67, 151);
+}
+
+.blue {
+    background-color: rgb(105, 105, 219);
+}
