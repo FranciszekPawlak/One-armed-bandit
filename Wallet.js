@@ -15,7 +15,7 @@ class Wallet {
     }
     changeWalletValue = (action, bid) => {
         if (action === '+') {
-            this.wallet += bid * 3
+            this.wallet += bid * wonMultiplication
         } else if (action === '-') {
             this.wallet = this.wallet - bid
         } else {
